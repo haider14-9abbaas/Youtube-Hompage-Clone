@@ -1,5 +1,6 @@
 # YouTube Clone
 
+
 This is a **YouTube Clone** project built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. It replicates the basic functionality and design of YouTube's homepage, including a responsive layout, video cards, a sidebar, and a search bar.
 
 ## Live Demo
@@ -20,3 +21,10 @@ This is a **YouTube Clone** project built using **HTML**, **CSS**, **JavaScript*
 - **JavaScript**: Dynamic rendering of video cards and search functionality.
 - **Bootstrap**: Responsive design and pre-built components.
 - **Font Awesome**: Icons for buttons and links.
+
+ ## Developed by **Syed Haider Abbas Zaidi**  
+- [GitHub](https://github.com/haider14-9abbaas)
+- [LinkedIn](https://www.linkedin.com/in/syed-haider-abbas-zaidi-132525215/)
+
+  ## Disclaimer
+  This project is for educational purposes only and is not affiliated with or endorsed by The Coca-Cola Company.
